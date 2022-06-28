@@ -1,0 +1,6 @@
+:root {
+ --Moderateviolet: hsl(263, 55%, 52%) }
+
+ p {
+    color: var(--Moderateviolet);
+ }
